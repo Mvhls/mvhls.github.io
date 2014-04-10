@@ -1,0 +1,26 @@
+#header1{padding-top: 2em;
+	padding-bottom: 2em;
+	border-bottom: 4px solid rgb(27, 50, 143);background-color: #DDE8F0;}
+
+header a:link{text-decoration: none;
+	color:black;}
+header a:visited{color:red;}
+header a:hover{color:lime;}	
+
+.hello{text-align: center;
+	font-size: 5em;
+	vertical-align: middle;
+	}
+
+.body{width: 100%;
+	height: 8em;
+	text-align: center;
+	background-color:#DDE8F0;
+	margin-top: 5em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	}
+
+.right{float:right;
+	padding-left: 1em;
+	padding-right: 1em;}

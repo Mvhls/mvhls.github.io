@@ -1,0 +1,30 @@
+#header{padding-top: 2em;
+	padding-bottom: 2em;
+	border-bottom: 4px solid rgb(27, 50, 143);
+	background-color: #DDE8F0;
+	margin-bottom: 5em;
+	text-align: center;}
+
+#page_name{font-size: 5em;}
+
+#body{width: 70%;
+	height:123em;
+	background-color: #DDE8F0;
+	margin-left:auto;
+	margin-right: auto;
+	text-align: center;
+border: 4px solid rgb(27, 50, 143);}
+
+.image{text-align: center;}
+
+.padding{padding-top: 1em;
+	padding-bottom: 1em;}
+
+.link{font-size: 2em}
+
+#footer{padding-top: 2em;
+	padding-bottom: 2em;
+	border-top: 4px solid rgb(27, 50, 143);background-color: #DDE8F0;
+	margin-top: 5em;
+	text-align: center;}
+
