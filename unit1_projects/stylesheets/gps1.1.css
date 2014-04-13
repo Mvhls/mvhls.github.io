@@ -1,0 +1,23 @@
+#header{width:100%;
+    height:76px;
+    background-color:rgb(96, 206, 197);
+    text-align:center;}
+    
+    body{background-color:rgb(96, 206, 197)}
+
+    #body{width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    height:565px;
+    background-color:blue;
+    text-align:center;}
+    
+    #footer{width:100%;
+    height:76px;
+    background-color:rgb(96, 206, 197);}
+    
+    .margin-reset{margin:0px;}
+    
+    .word-spacing{word-spacing:65px;}
+
+    *{font-family: arial;}
