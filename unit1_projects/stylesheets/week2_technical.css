@@ -32,10 +32,11 @@
 	margin-top: 5em;
 	text-align: center;}
 
-#demo1{width: 100px;
-	height:100px;
-	background-color: red;
-	margin-left:auto;
-	margin-right: auto;
-	text-align: center;
-	padding:3em;}
+span{color:blue;}
+
+#h1{font-size: 3em;
+	font-weight: 3em;}
+
+.h2{font-size: 2em;}
+
+p{font-size: 12px}
