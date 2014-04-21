@@ -1,3 +1,10 @@
+@font-face {
+	font-family: quicksand;
+	src: url("Fonts/quicksand/Quicksand-Regular.otf");
+}
+
+.font{font-family: quicksand, arial;}
+
 #header1{padding-top: 2em;
 	padding-bottom: 2em;
 	border-bottom: 4px solid rgb(27, 50, 143);background-color: #DDE8F0;}
