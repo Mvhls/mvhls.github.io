@@ -5,6 +5,9 @@
 	margin-bottom: 5em;
 	text-align: center;}
 
+#header1{font-size: 2em;
+}
+
 #page_name{font-size: 5em}
 
 #body{width: 70%;
@@ -14,8 +17,7 @@
 	margin-right: auto;
 	text-align: center;
 	border: 4px solid rgb(27, 50, 143);
-	padding-left: 3em;
-	padding-right: 3em;}
+	padding:2em;}
 
 .padding{padding-top: 1em;
 	padding-bottom: 1em;}
