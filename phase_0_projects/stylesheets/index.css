@@ -5,32 +5,77 @@
 
 .font{font-family: quicksand, arial;}
 
-#header1{padding-top: 2em;
-	padding-bottom: 2em;
-	border-bottom: 4px solid rgb(27, 50, 143);background-color: #DDE8F0;}
-
-header a:link{text-decoration: none;
-	color:black;}
-header a:visited{color:red;}
-header a:hover{color:lime;}	
-
-.hello{text-align: center;
-	font-size: 5em;
-	vertical-align: middle;
-	}
-
-
-
-html{background: url(images/internet.jpg) no-repeat center center fixed;
-	background-size: cover;}
-
-.body{width: 100%;
-	height: 8em;
+.header{
+	width: 100%;
+	height: 2em;
+	background-color: #DDE8F0;
 	text-align: center;
-	background-color:#DDE8F0;
-	margin-top: 5em;
-	}
+	font-size: 3em;
+}
 
-.right{float:right;
-	padding-left: 1em;
-	padding-right: 1em;}
+.logo {
+	display: inline-block;
+	margin: .3em;
+	width: 1em;
+	height: 1em;
+	float: right;
+}
+
+
+.margin_1em {
+	margin: 1em;
+}
+
+.center_div {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.center {
+		display: table-cell;
+	vertical-align: middle;
+	border: 1px solid #DDE8F0;
+}
+
+.float_left {
+	float: left;
+}
+
+.float_right {
+	float: right;
+}
+
+.links {
+	width: 85%;
+	height: 100%;
+}
+
+.link {
+	display:inline-block;
+	margin: 1em;
+}
+
+li a:link {
+	text-decoration: none;
+	color: #DDE8F0;
+
+}
+li a:visited {
+	color: red;
+
+}
+li a:hover {
+	color: lime;
+
+}
+
+.box {
+	height: 5em;
+	width: 7em;
+	background-color: black;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+	border: 1px solid #DDE8F0;
+}
