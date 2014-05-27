@@ -7,7 +7,7 @@
 
 #page_name{font-size: 5em}
 
-#body{width: 80%;
+#body{width: 70%;
 	height:100%;
 	background-color: #DDE8F0;
 	margin-left:auto;
@@ -26,17 +26,17 @@
 .link:hover{color:lime;}
 .link{font-size: 2em}
 
+.font_3 {
+	font-size: 3em;
+}
+
+p {
+	font-size: 2em;
+}
+
 #footer{padding-top: 2em;
 	padding-bottom: 2em;
 	border-top: 4px solid rgb(27, 50, 143);background-color: #DDE8F0;
 	margin-top: 5em;
 	text-align: center;}
-
-span{color:blue;}
-
-#h1{font-size: 3em;
-	font-weight: 3em;}
-
-.h2{font-size: 3em;}
-
-p{font-size: 2em}
+p {font-family: arial;}
